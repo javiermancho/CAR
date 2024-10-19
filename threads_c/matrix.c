@@ -25,23 +25,6 @@ void *matrix_sum(void *arg){
 
 
 int main(){
-    // int matrix1[3][3];
-    // int matrix2[3][3];
-    
-    // printf("Enter the first matrix:\n");
-    // for(int i = 0; i < 3; i++){
-    //     for(int j = 0; j < 3; j++){
-    //         scanf("%d", &matrix1[i][j]);
-    //     }
-    // }
-
-    // printf("Enter the second matrix:\n");
-    // for(int i = 0; i < 3; i++){
-    //     for(int j = 0; j < 3; j++){
-    //         scanf("%d", &matrix2[i][j]);
-    //     }
-    // }
-
     int matrix1[3][3] = {
         {1, 2, 3},
         {4, 5, 6},

@@ -21,7 +21,7 @@ int main(){
     char input[2][100];
     int repeat = 0;
 
-    printf("Repeatitions: ");
+    printf("Repetitions: ");
     scanf("\n%d", &repeat);
 
     printf("Enter the first string: ");
